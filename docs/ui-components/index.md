@@ -3,7 +3,10 @@ title: UI Components
 nav_order: 3
 ---
 
-# UI Components
+# FAP (FAQ)
 
-To make it as easy as possible to write documentation in plain Markdown, most UI components are styled using default Markdown elements with few additional CSS classes needed.
-{: .fs-6 .fw-300 }
+
+A Formação Acelerada em Programação tem o objetivo de capacitar jovens e adultos desenvolvedores em linguagens Front-end e Back-end, alinhados com as demandas atuais do mercado de tecnologia no Brasil.
+
+Com uma ementa criada por acadêmicos e líderes de empresas de tecnologia, o FAP está formando mais de 1.500 estudantes e criando oportunidades através da formação e da residência integrada ao programa.
+
