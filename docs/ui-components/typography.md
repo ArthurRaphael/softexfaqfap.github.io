@@ -1,5 +1,5 @@
 ---
-title: Acessando o sistema do FAP como ADM
+title: Acessando o sistema do FAP como Admin
 parent: UI Components
 nav_order: 1
 ---

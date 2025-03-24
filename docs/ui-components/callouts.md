@@ -1,160 +1,49 @@
 ---
-title: Callouts
+title: Como é o processo da chamada de inscrição ?
 parent: UI Components
 nav_order: 7
 ---
 
-# Callouts
+# Como é o processo da chamada de inscrição ?
 {: .d-inline-block }
 
-New (v0.4.0)
-{: .label .label-green }
+Neste tópico, iremos explicar como é realizado todo o processo da chamada de inscrição.
 
-Markdown does not include support for callouts. However, you can style text as a callout using a Markdown extension supported by kramdown: [*block IALs*](https://kramdown.gettalong.org/quickref.html#block-attributes).
+O processo começa, logo após as inscrições serem fechadas e após os candidatos confirmarem as suas inscrições. A chamada de inscrição é dividida por etapas, são elas:
 
-Common kinds of callouts include `highlight`, `important`, `new`, `note`, and `warning`.
+- Teste de lógica;
+- Análise dos vídeos dos candidatos;
+- Realização das matrículas dos currículos;
+- Residência
+- Preenchimento do currículo;
+- Alocação dos inscritos nas residências.
 
-{: .warning }
-These callout names are *not* pre-defined by the theme: you need to define your own names.
+Iremos explicar cada um deles.
 
-When you have [configured]({% link docs/configuration.md %}#callouts) the  `color` and (optional) `title` for a callout, you can apply it to a paragraph, or to a block quote with several paragraphs, as illustrated below.[^postfix]
+- **Teste de Lógica**
 
-[^postfix]:
-    You can put the callout markup either before or after its content.
+Nessa etapa do processo, serão enviados para os seus respectivos e-mails, os testes de lógica. Aqui os candidatos terão 45 minutos para responder um total de 20 questões. Caso o tempo limite seja atingido, somente as respostas que foram preenchidas serão consideradas.
 
-## An untitled callout
-{: .no_toc .text-delta }
+Caso o candidato tenha êxito, um e-mail de aprovação será enviado e o candidato irá passar para a próxima etapa. Do contrário, será enviado um e-mail de reprovação e o inscrito é eliminado do processo.
 
-```markdown
-{: .highlight }
-A paragraph
-```
+- **Análise dos Vídeos**
 
-{: .highlight }
-A paragraph
+Nessa etapa, os candidatos deverão enviar um vídeo de 1 minuto de duração, respondendo a pergunta: “**O que motiva você a participar da Formação Acelerada em Programação do Softex Pernambuco ?**”.
 
+Após a submissão dos vídeos, quem irá avaliá-los será o Psicólogo do FAP, que vai decidir os candidatos que passarão para próxima fase e aqueles que ficarão na lista de espera para uma segunda chamada.
 
-## A single paragraph callout
-{: .no_toc .text-delta }
+- **Período de Matrícula**
 
-```markdown
-{: .note }
-A paragraph
-```
+Para o candidato aprovado, será enviado um e-mail para confirmar a sua matrícula, com os dados do curso (Curso escolhido, Dias, horários e Unidade de ensino escolhida) e sua continuidade para a próxima fase.
 
-{: .note }
-A paragraph
+- **Residência**
 
-```markdown
-{: .note-title }
-> My note title
->
-> A paragraph with a custom title callout
-```
+Nessa etapa do processo da chamada, os candidatos serão alocados nas respectivas empresas de acordo com a sua localidade e de acordo com a sua modalidade de curso escolhida.
 
-{: .note-title }
-> My note title
->
-> A paragraph with a custom title callout
+- **Preenchimento do currículo**
 
-## A multi-paragraph callout
-{: .no_toc .text-delta }
+Nessa etapa, os inscritos terão que preencher seus currículos, para poder prosseguir até a última etapa.
 
-```markdown
-{: .important }
-> A paragraph
->
-> Another paragraph
->
-> The last paragraph
-```
+- **Alocação dos inscritos**
 
-{: .important }
-> A paragraph
->
-> Another paragraph
->
-> The last paragraph
-
-```markdown
-{: .important-title }
-> My important title
->
-> A paragraph
->
-> Another paragraph
->
-> The last paragraph
-```
-
-{: .important-title }
-> My important title
->
-> A paragraph
->
-> Another paragraph
->
-> The last paragraph
-
-## An indented callout
-{: .no_toc .text-delta }
-
-```markdown
-> {: .highlight }
-  A paragraph
-```
-
-> {: .highlight }
-  A paragraph
-
-## Indented multi-paragraph callouts
-{: .no_toc .text-delta }
-
-```markdown
-> {: .new }
-> > A paragraph
-> >
-> > Another paragraph
-> >
-> > The last paragraph
-```
-
-> {: .new }
-> > A paragraph
-> >
-> > Another paragraph
-> >
-> > The last paragraph
-
-
-## Nested callouts
-{: .no_toc .text-delta }
-
-```markdown
-{: .important }
-> {: .warning }
-> A paragraph
-```
-
-{: .important }
-> {: .warning }
-> A paragraph
-
-## Opaque background
-{: .no_toc .text-delta }
-
-```markdown
-{: .important }
-> {: .opaque }
-> <div markdown="block">
-> {: .warning }
-> A paragraph
-> </div>
-```
-
-{: .important }
-> {: .opaque }
-> <div markdown="block">
-> {: .warning }
-> A paragraph
-> </div>
+Após o preenchimento dos currículos, todos os inscritos aprovados, serão alocados nas empresas cadastradas no programa de residência, por um período de 3 meses.

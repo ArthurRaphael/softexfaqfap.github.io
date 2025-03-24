@@ -1,48 +1,13 @@
 ---
-title: Labels
+title: Adicionando um Novo Usuário
 parent: UI Components
 nav_order: 3
 ---
 
-# Labels
+# Adicionando um Novo Usuário
 
-Use labels as a way to add an additional mark to a section of your docs. Labels come in a few colors. By default, labels will be blue.
+Após efetuar o login, no menu lateral dos menus, clique em **“Usuários”.** Clique no botão **“+ Adicionar Usuários”** localizado na parte superior direita da tela.
 
-<div class="code-example" markdown="1">
-Default label
-{: .label }
+Após clicar no botão “+ Adicionar Usuários”, preencha os campos solicitados. Durante o cadastro, no campo “Perfil”, o usuário deverá escolher entre as opções: “Admin”, “Comum”, “Estudante”, “Professor” e “Psicólogo”. 
 
-Blue label
-{: .label .label-blue }
-
-Stable
-{: .label .label-green }
-
-New release
-{: .label .label-purple }
-
-Coming soon
-{: .label .label-yellow }
-
-Deprecated
-{: .label .label-red }
-</div>
-```markdown
-Default label
-{: .label }
-
-Blue label
-{: .label .label-blue }
-
-Stable
-{: .label .label-green }
-
-New release
-{: .label .label-purple }
-
-Coming soon
-{: .label .label-yellow }
-
-Deprecated
-{: .label .label-red }
-```
+Para finalizar o cadastro de usuário, clique no botão **“Salvar”**, localizado na parte superior direita da tela. Para que o novo usuário possa ter acesso ao FAP, é necessário que o mesmo verifique sua caixa de e-mail.

@@ -1,98 +1,20 @@
 ---
-title: Lists
+title: Perfis de usuário
 parent: UI Components
 nav_order: 5
 ---
 
-# Lists
+# Perfis de Usuário
 {: .no_toc }
+Como dito no tópico anterior, no FAP, existem quatro tipos de perfis disponíveis a serem escolhidos pelo usuário, são eles: **“Admin”**, **“Comum”**, **“Estudante”, “Psicólogo”** e **“Professor”**. Neste tópico vamos explicar todas as funcionalidades de cada um.
 
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
+- **Admin**: Este perfil terá acesso a todas as funcionalidades do sistema.
+- **Estudante** e **Comum**: Não possuem acesso ao sistema do FAP.
+- **Psicólogo**: Este perfil poderá apenas visualizar e avaliar os vídeos de candidatos.
+- **Professor**: Poderá ser selecionado para as empresas e criar equipes.
 
 ---
 
-Most lists can be rendered with pure Markdown.
 
-## Unordered list
 
-<div class="code-example" markdown="1">
-- Item 1
-- Item 2
-- Item 3
 
-_or_
-
-* Item 1
-* Item 2
-* Item 3
-</div>
-```markdown
-- Item 1
-- Item 2
-- Item 3
-
-_or_
-
-* Item 1
-* Item 2
-* Item 3
-```
-
-## Ordered list
-
-<div class="code-example" markdown="1">
-1. Item 1
-1. Item 2
-1. Item 3
-</div>
-```markdown
-1. Item 1
-1. Item 2
-1. Item 3
-```
-
-## Task list
-
-<div class="code-example" markdown="1">
-- [ ] hello, this is a todo item
-- [ ] hello, this is another todo item
-- [x] goodbye, this item is done
-</div>
-```markdown
-- [ ] hello, this is a todo item
-- [ ] hello, this is another todo item
-- [x] goodbye, this item is done
-```
-
-## Definition list
-
-Definition lists require HTML syntax and aren't supported with the GitHub Flavored Markdown compiler.
-
-<div class="code-example" markdown="1">
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-</div>
-```html
-<dl>
-  <dt>Name</dt>
-  <dd>Godzilla</dd>
-  <dt>Born</dt>
-  <dd>1952</dd>
-  <dt>Birthplace</dt>
-  <dd>Japan</dd>
-  <dt>Color</dt>
-  <dd>Green</dd>
-</dl>
-```

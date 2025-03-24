@@ -1,28 +1,18 @@
 ---
-title: Tables
+title: Fazendo Login no Sistema (Usuário Novo)
 parent: UI Components
 nav_order: 4
 ---
 
-# Tables
+# Fazendo Login no Sistema (Usuário Novo)
 
-Tables are responsive by default, allowing wide tables to have a horizontal scroll to access columns outside of the normal viewport.
 
-<div class="code-example" markdown="1">
+Para realizar o login sendo usuário novo no FAP, primeiro verifique sua caixa de e-mail.
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+Após isso, terá o seu e-mail e uma senha de acesso único para que o novo usuário tenha acesso ao FAP. Acesse o site do FAP: [https://fap.softexrecife.org.br/entrar](https://test.fap.softexrecife.org.br/entrar) para o primeiro passo.
 
-</div>
-```markdown
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-```
+Em seguida, preencha os campos de login com o e-mail cadastrado e a senha de acesso único. Assim que o login for realizado e necessário que o novo usuário preencha os campos restantes para finalizar o login. 
+
+Para isso ,clique no nome do usuário localizado no canto superior direito, após o menu suspenso aparecer, clique no botão “Editar Perfil”. Preencha os campos restantes e que no botão “Salvar”. 
+
+Agora é necessário alterar a senha para finalizar, clique novamente no nome do usuário na parte superior direita da tela e após o menu suspenso aparecer, clique em “Alterar Senha”. Preencha os campos solicitados e clique no botão “Salvar”. Pronto !, o novo usuário já poderá usar as funcionalidades do sistema.
