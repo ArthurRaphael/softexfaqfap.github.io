@@ -1,6 +1,6 @@
 ---
 title: Adicionando uma nova chamada de inscrição
-parent: UI Components
+parent: FAP
 nav_order: 2
 ---
 
