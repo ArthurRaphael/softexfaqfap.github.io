@@ -1,6 +1,6 @@
 ---
 title: Perfis de usuário
-parent: UI Components
+parent: FAP
 nav_order: 5
 ---
 

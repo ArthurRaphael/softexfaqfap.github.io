@@ -1,6 +1,6 @@
 ---
 title: Fazendo Login no Sistema (Usuário Novo)
-parent: UI Components
+parent: FAP
 nav_order: 4
 ---
 

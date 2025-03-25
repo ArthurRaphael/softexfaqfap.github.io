@@ -1,6 +1,6 @@
 ---
 title: Como é o processo da chamada de inscrição ?
-parent: UI Components
+parent: FAP
 nav_order: 7
 ---
 

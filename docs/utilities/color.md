@@ -1,6 +1,6 @@
 ---
 title: Color
-parent: Utilities
+parent: MPT.BR
 ---
 
 # Color Utilities

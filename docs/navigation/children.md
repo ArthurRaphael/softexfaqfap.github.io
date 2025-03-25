@@ -1,6 +1,6 @@
 ---
 title: Child Pages
-parent: Navigation
+parent: SGB
 nav_order: 4
 ---
 

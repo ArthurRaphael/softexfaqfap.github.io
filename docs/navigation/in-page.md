@@ -1,6 +1,6 @@
 ---
 title: In-Page Navigation
-parent: Navigation
+parent: SGB
 nav_order: 5
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Typography
-parent: Utilities
+parent: MPT.BR
 ---
 
 # Typography Utilities

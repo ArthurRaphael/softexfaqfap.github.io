@@ -1,6 +1,6 @@
 ---
 title: Auxiliary Links
-parent: Navigation
+parent: SGB
 nav_order: 2
 ---
 

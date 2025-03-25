@@ -1,16 +1,8 @@
 ---
-title: Navigation
+title: SGB
 nav_order: 5
 ---
 
-# Navigation
+# Sistema de Gerenciamento de Bolsas (SGB)
 
-The default page layout supports various navigation features:
-
-* a **main navigation** panel, highlighting the currently selected page;
-* a list of **auxiliary** links, shown on all pages;
-* lists of **breadcrumbs**, shown on all except top level pages;
-* optional lists of links to **child pages** (so-called 'tables of contents'); and
-* section heading links for **in-page navigation**, with an optional **back-to-top** link.
-
-See the following pages for how to specify these features, with illustrative examples.
+O Sistema de Gestão de Bolsas (SGB) é uma ferramenta desenvolvida para informatizar o processo de Gestão de Bolsas, tornando-o mais ágil através de uma plataforma simples e intuitiva.

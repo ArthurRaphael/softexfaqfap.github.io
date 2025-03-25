@@ -1,6 +1,6 @@
 ---
 title: Acessando o sistema do FAP como Admin
-parent: UI Components
+parent: FAP
 nav_order: 1
 ---
 

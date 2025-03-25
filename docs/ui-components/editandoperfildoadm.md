@@ -1,6 +1,6 @@
 ---
 title: Editando Perfil de Usuário
-parent: UI Components
+parent: FAP
 nav_order: 2
 ---
 

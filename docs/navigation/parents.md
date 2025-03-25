@@ -1,6 +1,6 @@
 ---
 title: Breadcrumbs
-parent: Navigation 
+parent: SGB
 nav_order: 3
 ---
 

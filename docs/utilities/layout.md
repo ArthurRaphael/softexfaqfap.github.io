@@ -1,6 +1,6 @@
 ---
 title: Layout
-parent: Utilities
+parent: MPT.BR
 ---
 
 # Layout Utilities

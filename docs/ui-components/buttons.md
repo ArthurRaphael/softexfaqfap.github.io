@@ -1,6 +1,6 @@
 ---
 title: Alterando Senha do Usuário
-parent: UI Components
+parent: FAP
 nav_order: 2
 ---
 
