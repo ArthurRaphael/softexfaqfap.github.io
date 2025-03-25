@@ -12,4 +12,4 @@ Após clicar em “+ Adicionar Chamada de inscrição”, na seção “Informa�
 
 Na seção “Turmas”, clique no botão “Adicionar”, após isso clique no carrossel onde está escrito: “Turma - 1”.
 
-Após abri-lo, preencher os campos solicitados, para finalizar o cadastro da chamada, clique no botão “Salvar”, localizado na parte superior direita da tela.
+Após abri-lo, preencher os campos solicitados, para finalizar o cadastro da chamada, clique no botão “Salvar”, localizado na parte superior direita da tela..
