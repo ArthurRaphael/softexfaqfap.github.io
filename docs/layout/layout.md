@@ -1,5 +1,5 @@
 ---
-title: SGA
+title: 
 layout: default
 nav_order: 4.5
 ---
