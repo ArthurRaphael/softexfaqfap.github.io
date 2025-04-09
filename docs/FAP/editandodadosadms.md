@@ -9,4 +9,8 @@ nav_order: 1
 ---
 Para editar o perfil, clique no botão “Editar Perfil”. Quando a página se abrir, você poderá realizar as mudanças necessárias. 
 
+![Alterando Senha do Admin](/assets/gifs/editarperfiladm1.gif)
+
 Quando finalizar as mudanças, basta clicar no botão **“Salvar”**, localizado na parte superior direita da tela.
+
+![Alterando Senha do Admin](/assets/gifs/editarperfiladm2.gif)

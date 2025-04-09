@@ -10,6 +10,12 @@ nav_order: 1
 
 No menu lateral, clique em **“Chamada de inscrições”,** Clique no botão **“+ Adicionar Chamada de inscrição”** localizado na parte superior direita da tela.
 
+![Alterando Senha do Admin](/assets/gifs/addnovachamada1.gif)
+
 Após clicar em “+ Adicionar Chamada de inscrição”, na seção “Informações”, preencher os campos solicitados.
 
+![Alterando Senha do Admin](/assets/gifs/addnovachamada2.gif)
+
 Após abri-lo, preencher os campos solicitados, para finalizar o cadastro da chamada, clique no botão “Salvar”, localizado na parte superior direita da tela.
+
+![Alterando Senha do Admin](/assets/gifs/addnovachamada3.gif)

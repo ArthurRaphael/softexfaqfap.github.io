@@ -9,9 +9,15 @@ nav_order: 1
 
 Nessa etapa, os vídeos enviados são analisados pelo psicólogo do FAP, para iniciar essa etapa, clique em “Editar” na chamada, e em seguida, clique em “Iniciar análise dos vídeos”.
 
+![Alterando Senha do Admin](/assets/gifs/analisedosvideospsico1.gif)
+
 Para o psicólogo realizar a análise dos vídeos, ele deve realizar o login acessando o link https://test.fap.softexrecife.org.br/entrar , após o login, clique em “Inscrições para avaliação”.
 
+![Alterando Senha do Admin](/assets/gifs/analisedosvideospsico2.gif)
+
 Após o clique, vai aparecer todos os inscritos que realizaram a submissão dos vídeos. Para avaliar o vídeo de algum candidato, clique no botão verde “Avaliar”.
+
+![Alterando Senha do Admin](/assets/gifs/analisedosvideospsico3.gif)
 
 Ao clicar, o psicólogo irá visualizar o vídeo enviado pelo candidato, e ao lado terá os campos: “Nota”, para que o psicólogo possa dar uma nota para o vídeo enviado, e o campo “Observações”, para que o psicólogo possa realizar comentários sobre o vídeo enviado. Na parte superior da tela, terá dois botões (”Salvar” e “Salvar e Próximo”), o psicólogo poderá clicar em ambos para avaliar os inscritos, no entanto a uma diferença:
 
@@ -19,6 +25,10 @@ Ao clicar, o psicólogo irá visualizar o vídeo enviado pelo candidato, e ao la
 
 **Salvar e próximo:** A função se repete, porém, ao clicar no botão, o psicólogo irá avaliar o próximo candidato em sequência.
 
+![Alterando Senha do Admin](/assets/gifs/analisedosvideospsico4.gif)
+
 Após clicar em “Salvar”, o candidato já terá sido avaliado.
+
+![Alterando Senha do Admin](/assets/gifs/analisedosvideospsico5.gif)
 
 Para encerrar a etapa de análise dos vídeos, logue novamente como Admin, se dirija até a chamada, clique em “Editar” e clique no botão vermelho “Encerrar análise dos vídeos”.

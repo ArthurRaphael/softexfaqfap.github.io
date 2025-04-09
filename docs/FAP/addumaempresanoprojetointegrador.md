@@ -9,6 +9,8 @@ nav_order: 1
 
 No menu lateral, clique em **“Projeto Integrador”**, Clique no botão **“+ Adicionar Projeto Integrador”**, localizado na parte superior direita da tela. 
 
+![Alterando Senha do Admin](/assets/gifs/addempresanoprojetointegrador.gif)
+
 Após clicar em **“+ Adicionar Projeto Integrador”**, preencher os campos das seguintes seções:
 
 - **Informações - Empresa**

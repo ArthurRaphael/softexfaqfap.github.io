@@ -9,6 +9,10 @@ nav_order: 1
 
 No menu lateral, clique em “Unidades de Ensino”, Clique no botão “+ Adicionar Unidade de Ensino”, localizado na parte superior direita da tela. 
 
+![Alterando Senha do Admin](/assets/gifs/addunidadedeensino1.gif)
+
 Após clicar em “+ Adicionar Unidade de Ensino”, preencher todos os campos solicitados.
+
+![Alterando Senha do Admin](/assets/gifs/addunidadedeensino2.gif)
 
 Para finalizar o cadastro da chamada, clique no botão “Salvar”, localizado na parte superior direita da tela.
