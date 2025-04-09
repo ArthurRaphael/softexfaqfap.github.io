@@ -9,7 +9,7 @@ nav_order: 1
 
 Para poder adicionar uma empresa, é necessário ir até uma chamada de inscrição com o status de “Classificação Final Gerada” ou “Período de Matrícula Finalizada”, após isso, clique no botão “Residência”. 
 
-![Alterando Senha do Admin](/assets/gifs/addempresanaresidencia1.gif)
+![Adicionando uma empresa ao programa de residência](/assets/gifs/addempresanaresidencia1.gif)
 
 Após o clique, será necessário preencher os campos do cadastro da empresa na residência. As etapas do cadastro são:
 
@@ -25,6 +25,6 @@ Nome do responsável - Email - WhatsApp
 
 N° de Vagas - Carga horária semanal - Especialidade - Modalidade - Turno - Descrição de expectativas - Observações (Opcional)
 
-![Alterando Senha do Admin](/assets/gifs/addempresanaresidencia2.gif)
+![Adicionando uma empresa ao programa de residência](/assets/gifs/addempresanaresidencia2.gif)
 
 Após finalizar o cadastro, clique no botão “Salvar”, na parte superior direita da tela.

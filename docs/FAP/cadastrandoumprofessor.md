@@ -9,8 +9,8 @@ nav_order: 1
 
 Após efetuar o login, no menu lateral dos menus, clique em “Usuários”. Clique no botão “+ Adicionar Usuários” localizado na parte superior direita da tela.
 
-![Alterando Senha do Admin](/assets/gifs/cadastrandoprofessor1.gif)
+![Cadastrando um professor](/assets/gifs/cadastrandoprofessor1.gif)
 
 Após clicar no botão “+ Adicionar Usuários”, preencha os campos solicitados. No campo “Perfil”, selecionar a opção “Professor”. Em seguida, clique no botão “Salvar”.
 
-![Alterando Senha do Admin](/assets/gifs/cadastrandoprofessor2.gif)
+![Cadastrando um professor](/assets/gifs/cadastrandoprofessor2.gif)

@@ -25,10 +25,10 @@ Ao clicar, o psicólogo irá visualizar o vídeo enviado pelo candidato, e ao la
 
 **Salvar e próximo:** A função se repete, porém, ao clicar no botão, o psicólogo irá avaliar o próximo candidato em sequência.
 
-![Alterando Senha do Admin](/assets/gifs/analisedosvideospsico4.gif)
+![Análise dos vídeos com o psicólogo](/assets/gifs/analisedosvideospsico4.gif)
 
 Após clicar em “Salvar”, o candidato já terá sido avaliado.
 
-![Alterando Senha do Admin](/assets/gifs/analisedosvideospsico5.gif)
+![Análise dos vídeos com o psicólogo](/assets/gifs/analisedosvideospsico5.gif)
 
 Para encerrar a etapa de análise dos vídeos, logue novamente como Admin, se dirija até a chamada, clique em “Editar” e clique no botão vermelho “Encerrar análise dos vídeos”.
