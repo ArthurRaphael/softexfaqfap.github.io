@@ -49,3 +49,5 @@ Caso escolha a segunda opção, preencha os campos:
 4. Cite funcionalidades que você considera essenciais para essa aplicação (mínimo de 3, com nome e descrição da funcionalidade).
 
 Para finalizar o cadastro da empresa, clique no botão **“Salvar”**, localizado na parte superior direita da tela.
+
+**OBS**: Após o cadastro da empresa ser finalizado, o usuário responsável pela empresa, é criado automaticamente para que o mesmo tenha acesso ao sistema do FAP.
